@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vpquitza
 - 👀 I’m interested in Geology software
-- 🌱 I’m currently learning Phyton (from zer0)
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
